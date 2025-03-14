@@ -403,6 +403,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-about .fh5co-social-icons li a:hover {
   background: #7B3F00;
+  color: #828282;
+}
+#fh5co-header .fh5co-social-icons i:hover{
+  color: #828282;
+  transition: color 0.3s ease, transform 0.3s ease;
 }
 
 .fh5co-heading {
